@@ -10,6 +10,7 @@ type
   TFrmPrincipal = class(TForm)
   private
     { Private declarations }
+    procedure GetNome;
   public
     { Public declarations }
   end;
